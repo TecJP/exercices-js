@@ -1,26 +1,26 @@
 # exercices-js
 Simple exercises to practice Javascript
 
-##Gere um novo array com apenas os números ímpares do array abaixo e exiba o novo array no console.
+## Gere um novo array com apenas os números ímpares do array abaixo e exiba o novo array no console.
 
 ```js 
   const randomNumbers = [10, 30, 15, 25, 50, 40, 5];
 ```
 
-##Exiba no console quantos números abaixo de 501 o array abaixo possui.
+## Exiba no console quantos números abaixo de 501 o array abaixo possui.
 
 ```js
   const crazyNumbers = [937, 5, 395, 402, 501, 333, 502, 781, 3, 691];
 ```
 
-##Gere um novo array com cada um dos números abaixo elevados ao quadrado e exiba o novo array no console.
+## Gere um novo array com cada um dos números abaixo elevados ao quadrado e exiba o novo array no console.
 
 ```js 
   const numbers = [5, 7, 3];
 ```
 
-##- Utilizando o array abaixo, gere um novo array com apenas os filmes lançados antes do ano 2000;
-##- Exiba o novo array no console.
+## Utilizando o array abaixo, gere um novo array com apenas os filmes lançados antes do ano 2000;
+## Exiba o novo array no console.
 
 ```js
   const tarantinoMovies = [
@@ -37,8 +37,8 @@ Simple exercises to practice Javascript
 ];
 ```
 
-##- Gere um novo array que contém apenas os nomes das séries abaixo;
-##- Exiba o novo array no console.
+## Gere um novo array que contém apenas os nomes das séries abaixo;
+## Exiba o novo array no console.
 
 ```js
   const tvShows = [
@@ -53,9 +53,9 @@ Simple exercises to practice Javascript
 
 ```
 
-##- Exiba no console uma lista dos nomes dos jogos do array abaixo;
-##- A lista deve ter a formatação exemplificada abaixo do array, considerando inclusive o traço e o espaço antes de cada nome.
-##- Dica: para quebrar linha, você pode usar dentro da string o caractere especial \n.
+## Exiba no console uma lista dos nomes dos jogos do array abaixo;
+## A lista deve ter a formatação exemplificada abaixo do array, considerando inclusive o traço e o espaço antes de cada nome.
+## Dica: para quebrar linha, você pode usar dentro da string o caractere especial \n.
 
 ```js
 const cart = [
